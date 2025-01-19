@@ -1,0 +1,1 @@
+This repository contains my java assignments for the 2nd semester OOP Programming Labs MMG Department 0027 Abdullah Shakeel It includes various coding excercises covering key java concepts of demonstrating my learning and progress in programming \. Feel free to explore and provide feedback!
