@@ -1,7 +1,4 @@
-/*
-@Developer: Danish Ali
-@Date: 31-01-2025
-*/
+
 import java.util.Scanner;
 
 public class Palindrome {
