@@ -1,7 +1,4 @@
-/*
-@Developer: Danish Ali
-@Date: 31-01-2025
-*/
+
 public class MatrixOperations {
 
     public static void main(String[] args) {
